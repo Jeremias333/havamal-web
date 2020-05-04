@@ -1,0 +1,44 @@
+@font-face {
+     font-family: 'Trade Winds', serif;
+     src: url(../fonts/TradeWinds-Regular.ttf);
+}
+
+body, p, h1, h2, h3, h4, h5, h6, button, ul{
+	font-family: 'Trade Winds';
+}
+
+.aplicarFonte{
+	font-family: 'Trade Winds';
+}
+
+
+.bg {
+  /* The image used */
+  background-image: url("../img/fundo.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.other{
+	
+ 	height: 100%;
+}
+
+.bg2{
+	background-image: url("../img/fundo.jpg");
+
+  /* Full height */
+  	height: 100%;
+
+  /* Center and scale the image nicely */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
